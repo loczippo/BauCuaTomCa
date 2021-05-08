@@ -1,0 +1,76 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+html {
+    height: 100%;
+    font-family: "Times New Roman", Times, serif;
+}
+h1 {
+    color: white;
+    text-shadow: black 3px 3px 3px;
+    position: absolute;
+    top: 120px;
+    left: 500px;
+}
+.hi {
+  position: absolute;
+  top: 190px;
+  left: 610px;
+}
+
+.h1 {
+    color: white;
+    text-shadow: black 3px 3px 3px;
+    position: absolute;
+    top: 70px;
+    left: 500px;
+}
+
+
+#tb {
+    text-align: center; 
+    vertical-align: middle;
+    position: absolute;
+    bottom: 10px;
+    background-color: #F5CAC3;
+    border-radius: 50px 20px;
+    border: 0px solid #9D070B;
+    left: 20px;
+}
+#tb1 {
+    text-align: center; 
+    vertical-align: middle;
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+}
+tr>td {
+ padding-left: 0.3em;
+}
+
+#tb2 {
+    text-align: center; 
+    vertical-align: middle;
+    position: absolute;
+    top: 100px;
+    right: 20px;
+}
+#tb3 {
+    width: 40%;
+    text-align: center; 
+    vertical-align: middle;
+    position: absolute;
+    top: 230px;
+    left: 60px;
+    border: 0px solid #9D070B;
+    background-color: #F5CAC3;
+}
+.activity {
+    position: absolute;
+    top: 150px;
+    right: 230px;
+}
+caption {
+    color: black;
+}
